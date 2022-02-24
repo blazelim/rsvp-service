@@ -26,6 +26,8 @@ public class Rsvp implements Serializable {
         this.totalAttending = totalAttending;
     }
 
+    //fasd
+
     public Integer getId() {
         return rsvpId;
     }
